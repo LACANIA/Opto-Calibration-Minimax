@@ -1,0 +1,218 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "5f2ce76399810a72f8fcba97658e16c6c51895e8b8efb929c784f34126fdc4f3",
+      "bytes": 72
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f1aa889dd165e1e6e1d4489c44df141fbed5ff5dcfadb71d00127bdd261511c7",
+      "bytes": 110
+    },
+    {
+      "path": "checks/angle_boundary.json",
+      "sha256": "b289eb8d1f7dbded178cc3f1406f0bde8c9a39db2a718601fd6c9b81f672001c",
+      "bytes": 1857
+    },
+    {
+      "path": "checks/reproduction_receipt.json",
+      "sha256": "dfdaa3342c5ffd9c73a593ad869687e790412319a4e09f9812a65026a2c8b601",
+      "bytes": 6223
+    },
+    {
+      "path": "docs/DATA_SOURCES.md",
+      "sha256": "a944eb71c9431cfe5947ea98f55ac24eb035151243a7c9b61b736fad88441128",
+      "bytes": 2662
+    },
+    {
+      "path": "docs/EVIDENCE_SCOPE.md",
+      "sha256": "1412f4ba8235767bc0e10b4711b20d3d054e2187fdd1fbc6b2e13ef3d77c4beb",
+      "bytes": 1366
+    },
+    {
+      "path": "docs/MODEL_AND_INTERFACES.md",
+      "sha256": "3d33a506193239f75bbf647446b7033aa44a671ff749a9923e0ad2a58c0f48f3",
+      "bytes": 2510
+    },
+    {
+      "path": "docs/REPRODUCE.md",
+      "sha256": "73263b30961e5efa2df8328b3c8b8f1816687a4609b79711b22b6d2a7e9259c0",
+      "bytes": 2693
+    },
+    {
+      "path": "inputs/spec.json",
+      "sha256": "055e70902c06bf0615c6610407ee277e662e0e7eb92782eaf4937375ada68be1",
+      "bytes": 513
+    },
+    {
+      "path": "inputs/tested_environment.json",
+      "sha256": "dbd37736c9519bec63f80050baae4e9075f89ae4d9d684edf581080adbdeb7f1",
+      "bytes": 302
+    },
+    {
+      "path": "provenance.json",
+      "sha256": "ab174d25908837d122afac239dc7e0a32b716e71305fd2c938e7f451fed02097",
+      "bytes": 8815
+    },
+    {
+      "path": "README.md",
+      "sha256": "13d0218ea471e1db852b73d4e7e9722479a48f82d0cf0efb45ad198980fbd6b3",
+      "bytes": 2872
+    },
+    {
+      "path": "records/limit_01/independent_audit.json",
+      "sha256": "76e94fd9afdbe888bd1cb696c93c8b17f622815a1547b9dd6c73108829e664df",
+      "bytes": 1423
+    },
+    {
+      "path": "records/limit_01/limits.json",
+      "sha256": "79769dee96ac35c7bc5c8bc01a4b020a2df6e417d2e0bbf1d6f3dc33dd081575",
+      "bytes": 15421
+    },
+    {
+      "path": "records/limit_01/symbolic_and_controls.json",
+      "sha256": "56717f67e992be2566a439cf7ddbab79749c8a8bf78456453907a1f5b9904420",
+      "bytes": 11581
+    },
+    {
+      "path": "records/limit_02/boundary_records.json",
+      "sha256": "086cdf0d418ae3c0a4b099e8495b29ab1c83a9d350e3e5a1bcd1faa1463492f4",
+      "bytes": 70967
+    },
+    {
+      "path": "records/limit_02/controls.json",
+      "sha256": "64676b9e1479909647b50f712eb61debe429a7a08e4a6bae92b6fbe11c79a290",
+      "bytes": 129949
+    },
+    {
+      "path": "records/limit_02/independent_audit.json",
+      "sha256": "9f85ed2f9edcc295973b4e6198d0bc6b0ad6dddb367a44ad20fded55cc0d0ab1",
+      "bytes": 630009
+    },
+    {
+      "path": "records/limit_02/metadata_correction.json",
+      "sha256": "5e68ff0abdd7e76b56f68890d4c946c000a85f648e99a9e8ce18e87e4822263d",
+      "bytes": 519
+    },
+    {
+      "path": "records/limit_02/numerical_certificate.json",
+      "sha256": "1193173b857da8ae0119d70f1e4ff165756e6f164340a90b84bb516d0e39edf3",
+      "bytes": 8714
+    },
+    {
+      "path": "requirements-plots.txt",
+      "sha256": "4dec77248ffbb6d4cbc7142862f284b7d60bdc973e4866f56f50cde8fbe8ed19",
+      "bytes": 49
+    },
+    {
+      "path": "requirements-verify.txt",
+      "sha256": "46a48698b6a2bf1e11487acd0975f833de911f93c75300673bbfeff3e45c6170",
+      "bytes": 15
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "eb751074b9d593beb8b22422c74b728ac71f2aa4083d0f47fc60829111002695",
+      "bytes": 55
+    },
+    {
+      "path": "results/exact_limits.csv",
+      "sha256": "fa9f4c7e7cedceb058b7e7a69bec140233efa8d3abf332be45f4f1e7b2a0cd05",
+      "bytes": 2489
+    },
+    {
+      "path": "results/figures/exact_limits.pdf",
+      "sha256": "29048f21682f051a016419aa947baf463dbc90ce1aa47dcad07f816798858d42",
+      "bytes": 21770
+    },
+    {
+      "path": "results/figures/exact_limits.png",
+      "sha256": "2bb5c9d77c9023e4b3bffecec9bc70d5a3e804202eeb1d5f8f09078a97e71461",
+      "bytes": 131077
+    },
+    {
+      "path": "results/figures/exact_limits.svg",
+      "sha256": "adef44747b2818080e80b0e945fe021df97970ee2ade576f04743c6d20eb4900",
+      "bytes": 57880
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.pdf",
+      "sha256": "e5b7d06e99a92b311671ee6d17b3eb77f721c49f55fb00da39d763fdd186f8c2",
+      "bytes": 24178
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.png",
+      "sha256": "0cc445880269333cffd6ad7513d4646e06353e52c63b3d473b7401cc019547da",
+      "bytes": 196025
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.svg",
+      "sha256": "bafe9a6682ca58fcca817594e66041f81136f88836741a443e96344d3397098c",
+      "bytes": 60837
+    },
+    {
+      "path": "results/main_example.json",
+      "sha256": "6d924ce9f1f8cbb3e61cc824524e5d6bd7cc0864ed5502db47f013cd070ce554",
+      "bytes": 2454
+    },
+    {
+      "path": "results/plot_data.json",
+      "sha256": "155f85c1e5ac8a96563ca7364d14578f5cc59377f54f970948c7dc43ecc4bac6",
+      "bytes": 89844
+    },
+    {
+      "path": "RIGHTS.md",
+      "sha256": "6659740a7b9f04ccedfad997c6ce58d84977ad718c93c6f71c4103b4768cc72c",
+      "bytes": 843
+    },
+    {
+      "path": "scripts/check_manifest.py",
+      "sha256": "da7ea9e0d79bfd1e5112adac23e29e0940b49fa7e1423e8683fbf66adebde98f",
+      "bytes": 868
+    },
+    {
+      "path": "scripts/make_figures.py",
+      "sha256": "8e76a08c12d4d46ac920af569672e46baad17ba2fc2fe7f8669267f1b4fd7d69",
+      "bytes": 7227
+    },
+    {
+      "path": "scripts/recompute_tables.py",
+      "sha256": "818cec402779c1e9ecda395240779ce1c1fb7cc1d458d2782492a0e5f434d880",
+      "bytes": 2607
+    },
+    {
+      "path": "scripts/verify_angle_boundary.py",
+      "sha256": "46fe7584f867508cdbbe3997367d641836ae99ab6bd3afca2a13b28815138c83",
+      "bytes": 1062
+    },
+    {
+      "path": "scripts/verify_boundary_records.py",
+      "sha256": "4416a17cabeba6a53f082e51abac9f1f111500341a6ab59e7eb95e5a02fb78d0",
+      "bytes": 894
+    },
+    {
+      "path": "scripts/verify_paper.py",
+      "sha256": "36c4257b39d19b36b4720e8eaffbf85142a5ae4c52450491c5e87952ed4f28d3",
+      "bytes": 3484
+    },
+    {
+      "path": "src/bounded_policy.py",
+      "sha256": "e3a616ff57074cbf72fe4ec2fa5cac5a79dd5157092a4a1c36376d230455791d",
+      "bytes": 1054
+    },
+    {
+      "path": "src/exact_interval.py",
+      "sha256": "1f135f1fd27c7c8f61d39c47d2e0de80e2baa7f2fae746614bb32226eb0b1217",
+      "bytes": 2706
+    }
+  ],
+  "self_excluded": true,
+  "allowed_local_directories": [
+    ".git",
+    ".venv",
+    "venv",
+    "__pycache__",
+    "reproduced"
+  ],
+  "purpose": "payload integrity, not independent scientific certification"
+}

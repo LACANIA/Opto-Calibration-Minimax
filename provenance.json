@@ -1,0 +1,182 @@
+{
+  "source_identifiers_are_study_relative": true,
+  "no_local_absolute_paths": true,
+  "members": [
+    {
+      "path": "scripts/verify_paper.py",
+      "source_id": "code/verify_paper.py",
+      "source_sha256": "36c4257b39d19b36b4720e8eaffbf85142a5ae4c52450491c5e87952ed4f28d3",
+      "sha256": "36c4257b39d19b36b4720e8eaffbf85142a5ae4c52450491c5e87952ed4f28d3",
+      "handling": "byte-identical",
+      "topic": "portable verification"
+    },
+    {
+      "path": "scripts/verify_angle_boundary.py",
+      "source_id": "code/verify_angle_boundary.py",
+      "source_sha256": "46fe7584f867508cdbbe3997367d641836ae99ab6bd3afca2a13b28815138c83",
+      "sha256": "46fe7584f867508cdbbe3997367d641836ae99ab6bd3afca2a13b28815138c83",
+      "handling": "byte-identical",
+      "topic": "portable verification"
+    },
+    {
+      "path": "src/exact_interval.py",
+      "source_id": "records/limit_02/exact_interval.py",
+      "source_sha256": "1f135f1fd27c7c8f61d39c47d2e0de80e2baa7f2fae746614bb32226eb0b1217",
+      "sha256": "1f135f1fd27c7c8f61d39c47d2e0de80e2baa7f2fae746614bb32226eb0b1217",
+      "handling": "byte-identical",
+      "topic": "outward arithmetic or bounded-reading policy"
+    },
+    {
+      "path": "src/bounded_policy.py",
+      "source_id": "records/limit_02/bounded_policy.py",
+      "source_sha256": "e3a616ff57074cbf72fe4ec2fa5cac5a79dd5157092a4a1c36376d230455791d",
+      "sha256": "e3a616ff57074cbf72fe4ec2fa5cac5a79dd5157092a4a1c36376d230455791d",
+      "handling": "byte-identical",
+      "topic": "outward arithmetic or bounded-reading policy"
+    },
+    {
+      "path": "records/limit_01/limits.json",
+      "source_id": "records/limit_01/limits.json",
+      "source_sha256": "79769dee96ac35c7bc5c8bc01a4b020a2df6e417d2e0bbf1d6f3dc33dd081575",
+      "sha256": "79769dee96ac35c7bc5c8bc01a4b020a2df6e417d2e0bbf1d6f3dc33dd081575",
+      "handling": "byte-identical",
+      "topic": "existing result evidence"
+    },
+    {
+      "path": "records/limit_01/symbolic_and_controls.json",
+      "source_id": "records/limit_01/symbolic_and_controls.json",
+      "source_sha256": "56717f67e992be2566a439cf7ddbab79749c8a8bf78456453907a1f5b9904420",
+      "sha256": "56717f67e992be2566a439cf7ddbab79749c8a8bf78456453907a1f5b9904420",
+      "handling": "byte-identical",
+      "topic": "existing result evidence"
+    },
+    {
+      "path": "records/limit_01/independent_audit.json",
+      "source_id": "records/limit_01/independent_audit.json",
+      "source_sha256": "76e94fd9afdbe888bd1cb696c93c8b17f622815a1547b9dd6c73108829e664df",
+      "sha256": "76e94fd9afdbe888bd1cb696c93c8b17f622815a1547b9dd6c73108829e664df",
+      "handling": "byte-identical",
+      "topic": "existing result evidence"
+    },
+    {
+      "path": "records/limit_02/numerical_certificate.json",
+      "source_id": "records/limit_02/numerical_certificate.json",
+      "source_sha256": "1193173b857da8ae0119d70f1e4ff165756e6f164340a90b84bb516d0e39edf3",
+      "sha256": "1193173b857da8ae0119d70f1e4ff165756e6f164340a90b84bb516d0e39edf3",
+      "handling": "byte-identical",
+      "topic": "existing exact numerical evidence"
+    },
+    {
+      "path": "records/limit_02/metadata_correction.json",
+      "source_id": "records/limit_02/metadata_correction.json",
+      "source_sha256": "5e68ff0abdd7e76b56f68890d4c946c000a85f648e99a9e8ce18e87e4822263d",
+      "sha256": "5e68ff0abdd7e76b56f68890d4c946c000a85f648e99a9e8ce18e87e4822263d",
+      "handling": "byte-identical",
+      "topic": "existing exact numerical evidence"
+    },
+    {
+      "path": "records/limit_02/controls.json",
+      "source_id": "records/limit_02/controls.json",
+      "source_sha256": "64676b9e1479909647b50f712eb61debe429a7a08e4a6bae92b6fbe11c79a290",
+      "sha256": "64676b9e1479909647b50f712eb61debe429a7a08e4a6bae92b6fbe11c79a290",
+      "handling": "byte-identical",
+      "topic": "existing exact numerical evidence"
+    },
+    {
+      "path": "records/limit_02/boundary_records.json",
+      "source_id": "records/limit_02/boundary_records.json",
+      "source_sha256": "086cdf0d418ae3c0a4b099e8495b29ab1c83a9d350e3e5a1bcd1faa1463492f4",
+      "sha256": "086cdf0d418ae3c0a4b099e8495b29ab1c83a9d350e3e5a1bcd1faa1463492f4",
+      "handling": "byte-identical",
+      "topic": "existing exact numerical evidence"
+    },
+    {
+      "path": "records/limit_02/independent_audit.json",
+      "source_id": "records/limit_02/independent_audit.json",
+      "source_sha256": "9f85ed2f9edcc295973b4e6198d0bc6b0ad6dddb367a44ad20fded55cc0d0ab1",
+      "sha256": "9f85ed2f9edcc295973b4e6198d0bc6b0ad6dddb367a44ad20fded55cc0d0ab1",
+      "handling": "byte-identical",
+      "topic": "existing exact numerical evidence"
+    },
+    {
+      "path": "checks/angle_boundary.json",
+      "source_id": "checks/angle_boundary.json",
+      "source_sha256": "b289eb8d1f7dbded178cc3f1406f0bde8c9a39db2a718601fd6c9b81f672001c",
+      "sha256": "b289eb8d1f7dbded178cc3f1406f0bde8c9a39db2a718601fd6c9b81f672001c",
+      "handling": "byte-identical",
+      "topic": "existing sufficient-boundary enclosure"
+    },
+    {
+      "path": "inputs/tested_environment.json",
+      "source_id": "environment.json",
+      "source_sha256": "dbd37736c9519bec63f80050baae4e9075f89ae4d9d684edf581080adbdeb7f1",
+      "sha256": "dbd37736c9519bec63f80050baae4e9075f89ae4d9d684edf581080adbdeb7f1",
+      "handling": "byte-identical",
+      "topic": "tested versions; no bundled runtime"
+    },
+    {
+      "path": "results/figures/exact_limits.pdf",
+      "source_id": "generated/exact_limits.pdf",
+      "source_sha256": "29048f21682f051a016419aa947baf463dbc90ce1aa47dcad07f816798858d42",
+      "sha256": "29048f21682f051a016419aa947baf463dbc90ce1aa47dcad07f816798858d42",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/figures/exact_limits.svg",
+      "source_id": "generated/exact_limits.svg",
+      "source_sha256": "adef44747b2818080e80b0e945fe021df97970ee2ade576f04743c6d20eb4900",
+      "sha256": "adef44747b2818080e80b0e945fe021df97970ee2ade576f04743c6d20eb4900",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/figures/exact_limits.png",
+      "source_id": "generated/exact_limits.png",
+      "source_sha256": "2bb5c9d77c9023e4b3bffecec9bc70d5a3e804202eeb1d5f8f09078a97e71461",
+      "sha256": "2bb5c9d77c9023e4b3bffecec9bc70d5a3e804202eeb1d5f8f09078a97e71461",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.pdf",
+      "source_id": "generated/policy_and_guarantee.pdf",
+      "source_sha256": "e5b7d06e99a92b311671ee6d17b3eb77f721c49f55fb00da39d763fdd186f8c2",
+      "sha256": "e5b7d06e99a92b311671ee6d17b3eb77f721c49f55fb00da39d763fdd186f8c2",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.svg",
+      "source_id": "generated/policy_and_guarantee.svg",
+      "source_sha256": "bafe9a6682ca58fcca817594e66041f81136f88836741a443e96344d3397098c",
+      "sha256": "bafe9a6682ca58fcca817594e66041f81136f88836741a443e96344d3397098c",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/figures/policy_and_guarantee.png",
+      "source_id": "generated/policy_and_guarantee.png",
+      "source_sha256": "0cc445880269333cffd6ad7513d4646e06353e52c63b3d473b7401cc019547da",
+      "sha256": "0cc445880269333cffd6ad7513d4646e06353e52c63b3d473b7401cc019547da",
+      "handling": "byte-identical",
+      "topic": "formula-generated quantitative plot"
+    },
+    {
+      "path": "results/plot_data.json",
+      "source_id": "generated/plot_data.json",
+      "source_sha256": "155f85c1e5ac8a96563ca7364d14578f5cc59377f54f970948c7dc43ecc4bac6",
+      "sha256": "155f85c1e5ac8a96563ca7364d14578f5cc59377f54f970948c7dc43ecc4bac6",
+      "handling": "byte-identical",
+      "topic": "saved high-precision plotting arrays"
+    },
+    {
+      "path": "scripts/make_figures.py",
+      "source_id": "code/make_figures.py",
+      "source_sha256": "630789e74368d597d8cc5363fa8314209deecd7d8c1f0d8d066af47acc69eba5",
+      "sha256": "8e76a08c12d4d46ac920af569672e46baad17ba2fc2fe7f8669267f1b4fd7d69",
+      "handling": "remove unused conceptual-diagram generation, keep quantitative plots and tables; reject nonempty output directory; generated array schema limited to quantitative panels, no removed concept variables",
+      "topic": "quantitative figure reproduction"
+    }
+  ]
+}

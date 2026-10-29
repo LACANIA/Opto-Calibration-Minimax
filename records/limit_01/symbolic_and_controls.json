@@ -1,0 +1,570 @@
+{
+  "tests": [
+    {
+      "name": "independent_coherency_trace_expansion",
+      "passed": true
+    },
+    {
+      "name": "symmetric_completed_square",
+      "passed": true
+    },
+    {
+      "name": "endpoint_balance_polynomial",
+      "passed": true
+    },
+    {
+      "name": "radicand",
+      "passed": true
+    },
+    {
+      "name": "product_symmetrization_identity",
+      "passed": true
+    },
+    {
+      "name": "symmetrization_AMGM_square",
+      "passed": true
+    },
+    {
+      "name": "Q_domain_separation_rational_bound",
+      "passed": true
+    },
+    {
+      "name": "interval_square_cross_zero",
+      "passed": true
+    },
+    {
+      "name": "zero_log_rejected",
+      "passed": true
+    },
+    {
+      "name": "finite_input_rejected",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_0",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_1",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_2",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_3",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_4",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_5",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_6",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_7",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_8",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_9",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_10",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_11",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_12",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_13",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_14",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_15",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_16",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_17",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_18",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_19",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_20",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_21",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_22",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_23",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_24",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_25",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_26",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_27",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_28",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_29",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_30",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_31",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_32",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_33",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_34",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_35",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_36",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_37",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_38",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_39",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_40",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_41",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_42",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_43",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_44",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_45",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_46",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_47",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_48",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_49",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_50",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_51",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_52",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_53",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_54",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_55",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_56",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_57",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_58",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_59",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_60",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_61",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_62",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_63",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_64",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_65",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_66",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_67",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_68",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_69",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_70",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_71",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_72",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_73",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_74",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_75",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_76",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_77",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_78",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_79",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_80",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_81",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_82",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_83",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_84",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_85",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_86",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_87",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_88",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_89",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_90",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_91",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_92",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_93",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_94",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_95",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_96",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_97",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_98",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_99",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_100",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_101",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_102",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_103",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_104",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_105",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_106",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_107",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_108",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_109",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_110",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_111",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_112",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_113",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_114",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_115",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_116",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_117",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_118",
+      "passed": true
+    },
+    {
+      "name": "adaptive_policy_point_119",
+      "passed": true
+    },
+    {
+      "name": "coherency_120_point_residual",
+      "passed": true
+    },
+    {
+      "name": "all_angle_reduction_120_point_check",
+      "passed": true
+    },
+    {
+      "name": "admissible_root_1/1000",
+      "passed": true
+    },
+    {
+      "name": "endpoint_equality_enclosure_1/1000",
+      "passed": true
+    },
+    {
+      "name": "admissible_root_1/100",
+      "passed": true
+    },
+    {
+      "name": "endpoint_equality_enclosure_1/100",
+      "passed": true
+    },
+    {
+      "name": "admissible_root_3/100",
+      "passed": true
+    },
+    {
+      "name": "endpoint_equality_enclosure_3/100",
+      "passed": true
+    },
+    {
+      "name": "admissible_root_1/10",
+      "passed": true
+    },
+    {
+      "name": "endpoint_equality_enclosure_1/10",
+      "passed": true
+    }
+  ],
+  "passed": 140,
+  "series_a": "q/2 + 3*q**2/4 + 5*q**3/8 - 5*q**4/16 + O(q**5)",
+  "series_V": "q**2/4 + 3*q**3/4 + 19*q**4/16 + O(q**5)",
+  "coherency_max_abs": "1.4287342391028437278e-101",
+  "symmetry_max_violation": "0.0",
+  "finite_points": "auxiliary only; analytic proof in report"
+}

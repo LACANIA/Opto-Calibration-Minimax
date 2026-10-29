@@ -1,0 +1,247 @@
+{
+  "status": "PASS",
+  "environment": {
+    "python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+    "sympy": "1.13.3",
+    "mpmath": "1.3.0",
+    "numpy": "2.1.3",
+    "matplotlib": "3.10.0",
+    "tested_scope": "local relocated package reproduction; no install or cross-platform claim"
+  },
+  "checks": [
+    {
+      "script": "scripts/check_manifest.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "files": 39,
+        "writes": 0
+      }
+    },
+    {
+      "script": "scripts/verify_paper.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "checks": [
+          {
+            "name": "completed_square",
+            "passed": true
+          },
+          {
+            "name": "finite_readout_identity",
+            "passed": true
+          },
+          {
+            "name": "small_u",
+            "passed": true
+          },
+          {
+            "name": "junction",
+            "passed": true
+          },
+          {
+            "name": "asymptotic",
+            "passed": true
+          },
+          {
+            "name": "benefit_boundary",
+            "passed": true
+          },
+          {
+            "name": "root_domain_1/1000",
+            "passed": true
+          },
+          {
+            "name": "Vfixed_1/1000",
+            "passed": true
+          },
+          {
+            "name": "A_fixed_1/1000",
+            "passed": true
+          },
+          {
+            "name": "epsilon0_1/1000",
+            "passed": true
+          },
+          {
+            "name": "adaptive_1/1000",
+            "passed": true
+          },
+          {
+            "name": "root_domain_1/100",
+            "passed": true
+          },
+          {
+            "name": "Vfixed_1/100",
+            "passed": true
+          },
+          {
+            "name": "A_fixed_1/100",
+            "passed": true
+          },
+          {
+            "name": "epsilon0_1/100",
+            "passed": true
+          },
+          {
+            "name": "adaptive_1/100",
+            "passed": true
+          },
+          {
+            "name": "root_domain_3/100",
+            "passed": true
+          },
+          {
+            "name": "Vfixed_3/100",
+            "passed": true
+          },
+          {
+            "name": "A_fixed_3/100",
+            "passed": true
+          },
+          {
+            "name": "epsilon0_3/100",
+            "passed": true
+          },
+          {
+            "name": "adaptive_3/100",
+            "passed": true
+          },
+          {
+            "name": "root_domain_1/10",
+            "passed": true
+          },
+          {
+            "name": "Vfixed_1/10",
+            "passed": true
+          },
+          {
+            "name": "A_fixed_1/10",
+            "passed": true
+          },
+          {
+            "name": "epsilon0_1/10",
+            "passed": true
+          },
+          {
+            "name": "adaptive_1/10",
+            "passed": true
+          },
+          {
+            "name": "main_B",
+            "passed": true
+          },
+          {
+            "name": "policy_db",
+            "passed": true
+          },
+          {
+            "name": "readout_budget",
+            "passed": true
+          },
+          {
+            "name": "outward_display_A_policy_display",
+            "passed": true
+          },
+          {
+            "name": "outward_display_fixed_global_A_upper_display",
+            "passed": true
+          },
+          {
+            "name": "outward_display_certified_advantage_display",
+            "passed": true
+          },
+          {
+            "name": "symbolic_count_correction",
+            "passed": true
+          },
+          {
+            "name": "historical_audit_01",
+            "passed": true
+          },
+          {
+            "name": "historical_audit_02",
+            "passed": true
+          },
+          {
+            "name": "illegal_log",
+            "passed": true
+          }
+        ],
+        "count": 36,
+        "root_digits": 90,
+        "log_terms": 180,
+        "scope": "paper-specific exact formula and certificate cross-check; not a new optical experiment"
+      }
+    },
+    {
+      "script": "scripts/verify_angle_boundary.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "checks": {
+          "rational_endpoints_reproduced": true,
+          "ordered_positive_enclosure": true,
+          "one_mrad_strictly_below": true,
+          "rounded_display": true
+        },
+        "scope": "existing sufficient boundary only; no optimal setting-error result"
+      }
+    },
+    {
+      "script": "scripts/verify_boundary_records.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "records": 204,
+        "arithmetic": "exact rational",
+        "scope": "finite controls, not a new full-domain proof"
+      }
+    },
+    {
+      "script": "scripts/recompute_tables.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "rows": 4,
+        "primary_records_match": true
+      }
+    },
+    {
+      "script": "scripts/make_figures.py",
+      "exit_code": 0,
+      "result": {
+        "status": "PASS",
+        "figures": 2,
+        "checks": {
+          "directed_table_rounding": true,
+          "complete_reading_domain": true,
+          "junctions_present": true,
+          "low_platform_equal": true,
+          "high_platform_equal": true
+        }
+      }
+    },
+    {
+      "check": "quantitative_plot_arrays_match_saved",
+      "status": "PASS",
+      "compared": [
+        "precision_digits",
+        "policy",
+        "epsilon0",
+        "eta_c",
+        "series",
+        "checks"
+      ]
+    },
+    {
+      "check": "nonempty_output_rejected",
+      "status": "PASS",
+      "exit_code": 2
+    }
+  ],
+  "scope": "same-machine relocated directory, PYTHONPATH removed, no separate clean-machine or independent-user claim",
+  "navigation_calls": 0,
+  "hardware_calls": 0
+}

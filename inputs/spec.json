@@ -1,0 +1,25 @@
+{
+  "Q_checks": [
+    "1/1000",
+    "1/100",
+    "3/100",
+    "1/10"
+  ],
+  "main": {
+    "Q": "1/100",
+    "epsilon": "9/100000",
+    "eta_rad": "1/1000"
+  },
+  "amplitude_domain": "0<Q<=1/10",
+  "normalization": "T=2 Iout/Iin",
+  "attenuation_db": "-10 log10(T/2)",
+  "input_identity": "theoretical specification, not measurements",
+  "primary_arithmetic": {
+    "decimal_digits": 70,
+    "log_terms": 160
+  },
+  "independent_check": {
+    "root_digits": 90,
+    "log_terms": 180
+  }
+}

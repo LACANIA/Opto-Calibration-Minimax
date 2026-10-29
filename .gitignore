@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+reproduced/
+*.log
+*.aux
+*.out
+*.docx
+*.tex
+*.bib

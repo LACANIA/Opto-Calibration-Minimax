@@ -1,0 +1,15 @@
+{
+  "field": "controls.json:symbolic_identities",
+  "recorded": 8,
+  "corrected": 7,
+  "actual_names": [
+    "coherency_equals_scalar_identity",
+    "completed_square",
+    "finite_reading_key_identity",
+    "small_u_response",
+    "branch_matching",
+    "single_element_frobenius_square",
+    "matrix_determinant"
+  ],
+  "reason": "manual tally typo; seven symbolic identity checks executed and passed. All 1616 assertion records retained. Frozen primary source and result unchanged; no science rerun."
+}

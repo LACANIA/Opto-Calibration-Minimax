@@ -1,0 +1,6479 @@
+{
+  "status": "PASS",
+  "tests": [
+    {
+      "name": "actual_70_digits_matches_frozen_policy",
+      "passed": true
+    },
+    {
+      "name": "actual_auxiliary_precision_matches_policy",
+      "passed": true
+    },
+    {
+      "name": "coherency_equals_scalar_identity",
+      "passed": true
+    },
+    {
+      "name": "completed_square",
+      "passed": true
+    },
+    {
+      "name": "finite_reading_key_identity",
+      "passed": true
+    },
+    {
+      "name": "small_u_response",
+      "passed": true
+    },
+    {
+      "name": "branch_matching",
+      "passed": true
+    },
+    {
+      "name": "single_element_frobenius_square",
+      "passed": true
+    },
+    {
+      "name": "matrix_determinant",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_0",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_0",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_1",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_1",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_2",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_2",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_3",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_3",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_4",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_4",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_1",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_1",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_5",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_5",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_6",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_6",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_7",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_7",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_8",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_8",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_2",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_2",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_9",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_9",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_10",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_10",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_11",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_11",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_12",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_12",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_3",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_3",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_13",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_13",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_14",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_14",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_15",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_15",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_16",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_16",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_4",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_4",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_17",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_17",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_18",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_18",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_19",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_19",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_20",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_20",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_5",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_5",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_21",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_21",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_22",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_22",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_23",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_23",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_24",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_24",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_6",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_6",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_25",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_25",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_26",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_26",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_27",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_27",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_28",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_28",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_7",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_7",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_29",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_29",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_30",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_30",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_31",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_31",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_32",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_32",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_8",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_8",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_33",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_33",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_34",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_34",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_35",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_35",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_36",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_36",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_9",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_9",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_37",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_37",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_38",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_38",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_39",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_39",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_40",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_40",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_10",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_10",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_41",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_41",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_42",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_42",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_43",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_43",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_44",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_44",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_11",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_11",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_45",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_45",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_46",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_46",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_47",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_47",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_48",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_48",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_12",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_12",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_49",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_49",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_50",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_50",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_51",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_51",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_52",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_52",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_13",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_13",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_53",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_53",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_54",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_54",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_55",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_55",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_56",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_56",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_14",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_14",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_57",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_57",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_58",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_58",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_59",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_59",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_60",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_60",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_15",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_15",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_61",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_61",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_62",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_62",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_63",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_63",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_64",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_64",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_16",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_16",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_65",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_65",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_66",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_66",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_67",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_67",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_68",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_68",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_17",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_17",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_69",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_69",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_70",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_70",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_71",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_71",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_72",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_72",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_18",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_18",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_73",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_73",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_74",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_74",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_75",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_75",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_76",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_76",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_19",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_19",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_77",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_77",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_78",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_78",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_79",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_79",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_80",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_80",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_20",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_20",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_81",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_81",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_82",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_82",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_83",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_83",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_84",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_84",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_21",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_21",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_85",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_85",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_86",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_86",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_87",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_87",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_88",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_88",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_22",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_22",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_89",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_89",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_90",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_90",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_91",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_91",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_92",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_92",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_23",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_23",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_93",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_93",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_94",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_94",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_95",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_95",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_96",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_96",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_24",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_24",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_97",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_97",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_98",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_98",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_99",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_99",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_100",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_100",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_25",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_25",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_101",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_101",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_102",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_102",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_103",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_103",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_104",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_104",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_26",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_26",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_105",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_105",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_106",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_106",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_107",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_107",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_108",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_108",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_27",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_27",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_109",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_109",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_110",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_110",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_111",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_111",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_112",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_112",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_28",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_113",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_114",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_115",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_116",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_29",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_117",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_118",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_119",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_120",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_30",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_121",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_122",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_123",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_124",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_31",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_125",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_126",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_127",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_128",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_32",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_129",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_130",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_131",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_132",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_33",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_133",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_134",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_135",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_136",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_34",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_137",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_138",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_139",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_140",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_35",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_141",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_142",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_143",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_144",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_36",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_145",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_146",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_147",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_148",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_37",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_149",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_150",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_151",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_152",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_38",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_153",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_154",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_155",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_156",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_39",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_157",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_158",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_159",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_160",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_40",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_161",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_162",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_163",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_164",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_41",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_165",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_166",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_167",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_168",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_42",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_169",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_170",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_171",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_172",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_43",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_173",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_174",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_175",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_176",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_44",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_177",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_178",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_179",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_180",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_45",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_181",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_182",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_183",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_184",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_46",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_185",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_186",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_187",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_188",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_47",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_189",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_190",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_191",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_192",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_48",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_193",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_194",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_195",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_196",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_49",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_197",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_198",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_199",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_200",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_50",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_201",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_202",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_203",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_204",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_51",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_51",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_205",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_205",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_206",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_206",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_207",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_207",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_208",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_208",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_52",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_52",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_209",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_209",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_210",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_210",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_211",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_211",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_212",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_212",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_53",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_53",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_213",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_213",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_214",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_214",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_215",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_215",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_216",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_216",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_54",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_54",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_217",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_217",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_218",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_218",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_219",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_219",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_220",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_220",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_55",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_55",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_221",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_221",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_222",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_222",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_223",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_223",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_224",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_224",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_56",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_56",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_225",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_225",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_226",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_226",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_227",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_227",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_228",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_228",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_57",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_57",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_229",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_229",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_230",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_230",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_231",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_231",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_232",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_232",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_58",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_58",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_233",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_233",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_234",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_234",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_235",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_235",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_236",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_236",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_59",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_59",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_237",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_237",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_238",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_238",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_239",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_239",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_240",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_240",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_60",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_60",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_241",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_241",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_242",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_242",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_243",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_243",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_244",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_244",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_61",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_61",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_245",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_245",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_246",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_246",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_247",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_247",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_248",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_248",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_62",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_62",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_249",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_249",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_250",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_250",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_251",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_251",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_252",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_252",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_63",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_63",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_253",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_253",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_254",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_254",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_255",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_255",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_256",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_256",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_64",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_64",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_257",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_257",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_258",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_258",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_259",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_259",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_260",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_260",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_65",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_65",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_261",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_261",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_262",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_262",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_263",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_263",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_264",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_264",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_66",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_66",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_265",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_265",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_266",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_266",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_267",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_267",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_268",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_268",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_67",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_67",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_269",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_269",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_270",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_270",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_271",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_271",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_272",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_272",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_68",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_68",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_273",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_273",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_274",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_274",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_275",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_275",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_276",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_276",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_69",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_69",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_277",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_277",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_278",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_278",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_279",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_279",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_280",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_280",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_70",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_70",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_281",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_281",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_282",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_282",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_283",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_283",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_284",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_284",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_71",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_71",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_285",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_285",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_286",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_286",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_287",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_287",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_288",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_288",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_72",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_72",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_289",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_289",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_290",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_290",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_291",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_291",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_292",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_292",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_73",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_73",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_293",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_293",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_294",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_294",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_295",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_295",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_296",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_296",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_74",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_74",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_297",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_297",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_298",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_298",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_299",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_299",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_300",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_300",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_75",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_75",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_301",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_301",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_302",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_302",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_303",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_303",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_304",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_304",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_76",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_76",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_305",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_305",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_306",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_306",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_307",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_307",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_308",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_308",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_77",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_77",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_309",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_309",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_310",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_310",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_311",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_311",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_312",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_312",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_78",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_78",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_313",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_313",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_314",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_314",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_315",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_315",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_316",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_316",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_79",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_317",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_318",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_319",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_320",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_80",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_321",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_322",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_323",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_324",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_81",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_325",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_326",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_327",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_328",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_82",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_329",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_330",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_331",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_332",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_83",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_333",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_334",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_335",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_336",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_84",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_337",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_338",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_339",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_340",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_85",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_341",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_342",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_343",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_344",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_86",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_345",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_346",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_347",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_348",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_87",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_349",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_350",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_351",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_352",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_88",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_353",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_354",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_355",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_356",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_89",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_357",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_358",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_359",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_360",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_90",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_361",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_362",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_363",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_364",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_91",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_365",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_366",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_367",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_368",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_92",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_369",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_370",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_371",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_372",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_93",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_373",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_374",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_375",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_376",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_94",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_377",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_378",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_379",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_380",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_95",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_381",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_382",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_383",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_384",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_96",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_385",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_386",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_387",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_388",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_97",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_389",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_390",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_391",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_392",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_98",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_393",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_394",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_395",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_396",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_99",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_397",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_398",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_399",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_400",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_100",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_401",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_402",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_403",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_404",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_101",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_405",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_406",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_407",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_408",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_102",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_102",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_409",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_409",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_410",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_410",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_411",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_411",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_412",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_412",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_103",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_103",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_413",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_413",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_414",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_414",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_415",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_415",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_416",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_416",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_104",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_104",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_417",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_417",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_418",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_418",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_419",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_419",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_420",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_420",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_105",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_105",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_421",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_421",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_422",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_422",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_423",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_423",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_424",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_424",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_106",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_106",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_425",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_425",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_426",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_426",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_427",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_427",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_428",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_428",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_107",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_107",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_429",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_429",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_430",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_430",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_431",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_431",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_432",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_432",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_108",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_108",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_433",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_433",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_434",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_434",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_435",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_435",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_436",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_436",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_109",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_109",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_437",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_437",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_438",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_438",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_439",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_439",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_440",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_440",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_110",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_110",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_441",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_441",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_442",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_442",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_443",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_443",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_444",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_444",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_111",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_111",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_445",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_445",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_446",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_446",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_447",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_447",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_448",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_448",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_112",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_112",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_449",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_449",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_450",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_450",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_451",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_451",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_452",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_452",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_113",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_113",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_453",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_453",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_454",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_454",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_455",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_455",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_456",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_456",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_114",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_114",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_457",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_457",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_458",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_458",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_459",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_459",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_460",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_460",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_115",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_115",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_461",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_461",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_462",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_462",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_463",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_463",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_464",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_464",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_116",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_116",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_465",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_465",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_466",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_466",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_467",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_467",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_468",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_468",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_117",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_117",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_469",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_469",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_470",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_470",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_471",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_471",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_472",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_472",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_118",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_118",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_473",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_473",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_474",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_474",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_475",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_475",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_476",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_476",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_119",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_119",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_477",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_477",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_478",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_478",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_479",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_479",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_480",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_480",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_120",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_120",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_481",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_481",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_482",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_482",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_483",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_483",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_484",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_484",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_121",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_121",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_485",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_485",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_486",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_486",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_487",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_487",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_488",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_488",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_122",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_122",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_489",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_489",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_490",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_490",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_491",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_491",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_492",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_492",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_123",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_123",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_493",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_493",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_494",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_494",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_495",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_495",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_496",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_496",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_124",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_124",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_497",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_497",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_498",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_498",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_499",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_499",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_500",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_500",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_125",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_125",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_501",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_501",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_502",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_502",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_503",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_503",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_504",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_504",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_126",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_126",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_505",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_505",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_506",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_506",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_507",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_507",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_508",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_508",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_127",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_127",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_509",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_509",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_510",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_510",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_511",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_511",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_512",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_512",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_128",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_128",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_513",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_513",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_514",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_514",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_515",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_515",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_516",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_516",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_129",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_129",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_517",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_517",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_518",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_518",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_519",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_519",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_520",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_520",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_130",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_521",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_522",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_523",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_524",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_131",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_525",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_526",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_527",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_528",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_132",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_529",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_530",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_531",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_532",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_133",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_533",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_534",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_535",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_536",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_134",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_537",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_538",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_539",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_540",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_135",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_541",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_542",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_543",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_544",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_136",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_545",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_546",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_547",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_548",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_137",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_549",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_550",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_551",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_552",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_138",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_553",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_554",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_555",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_556",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_139",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_557",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_558",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_559",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_560",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_140",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_561",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_562",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_563",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_564",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_141",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_565",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_566",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_567",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_568",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_142",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_569",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_570",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_571",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_572",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_143",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_573",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_574",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_575",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_576",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_144",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_577",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_578",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_579",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_580",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_145",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_581",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_582",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_583",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_584",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_146",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_585",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_586",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_587",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_588",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_147",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_589",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_590",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_591",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_592",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_148",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_593",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_594",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_595",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_596",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_149",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_597",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_598",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_599",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_600",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_150",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_601",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_602",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_603",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_604",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_151",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_605",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_606",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_607",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_608",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_152",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_609",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_610",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_611",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_612",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_153",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_153",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_613",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_613",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_614",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_614",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_615",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_615",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_616",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_616",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_154",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_154",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_617",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_617",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_618",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_618",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_619",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_619",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_620",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_620",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_155",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_155",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_621",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_621",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_622",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_622",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_623",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_623",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_624",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_624",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_156",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_156",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_625",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_625",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_626",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_626",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_627",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_627",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_628",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_628",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_157",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_157",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_629",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_629",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_630",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_630",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_631",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_631",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_632",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_632",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_158",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_158",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_633",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_633",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_634",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_634",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_635",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_635",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_636",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_636",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_159",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_159",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_637",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_637",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_638",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_638",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_639",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_639",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_640",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_640",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_160",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_160",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_641",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_641",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_642",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_642",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_643",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_643",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_644",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_644",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_161",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_161",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_645",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_645",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_646",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_646",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_647",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_647",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_648",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_648",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_162",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_162",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_649",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_649",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_650",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_650",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_651",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_651",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_652",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_652",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_163",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_163",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_653",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_653",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_654",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_654",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_655",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_655",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_656",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_656",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_164",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_164",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_657",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_657",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_658",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_658",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_659",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_659",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_660",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_660",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_165",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_165",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_661",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_661",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_662",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_662",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_663",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_663",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_664",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_664",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_166",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_166",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_665",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_665",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_666",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_666",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_667",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_667",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_668",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_668",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_167",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_167",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_669",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_669",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_670",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_670",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_671",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_671",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_672",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_672",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_168",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_168",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_673",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_673",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_674",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_674",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_675",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_675",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_676",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_676",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_169",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_169",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_677",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_677",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_678",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_678",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_679",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_679",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_680",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_680",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_170",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_170",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_681",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_681",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_682",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_682",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_683",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_683",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_684",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_684",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_171",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_171",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_685",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_685",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_686",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_686",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_687",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_687",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_688",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_688",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_172",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_172",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_689",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_689",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_690",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_690",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_691",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_691",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_692",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_692",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_173",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_173",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_693",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_693",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_694",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_694",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_695",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_695",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_696",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_696",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_174",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_174",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_697",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_697",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_698",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_698",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_699",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_699",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_700",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_700",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_175",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_175",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_701",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_701",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_702",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_702",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_703",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_703",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_704",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_704",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_176",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_176",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_705",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_705",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_706",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_706",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_707",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_707",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_708",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_708",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_177",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_177",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_709",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_709",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_710",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_710",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_711",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_711",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_712",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_712",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_178",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_178",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_713",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_713",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_714",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_714",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_715",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_715",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_716",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_716",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_179",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_179",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_717",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_717",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_718",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_718",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_719",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_719",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_720",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_720",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_180",
+      "passed": true
+    },
+    {
+      "name": "exact_rational_policy_bound_180",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_721",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_721",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_722",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_722",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_723",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_723",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_724",
+      "passed": true
+    },
+    {
+      "name": "angular_policy_auxiliary_724",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_181",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_725",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_726",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_727",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_728",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_182",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_729",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_730",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_731",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_732",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_183",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_733",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_734",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_735",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_736",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_184",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_737",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_738",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_739",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_740",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_185",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_741",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_742",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_743",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_744",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_186",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_745",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_746",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_747",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_748",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_187",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_749",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_750",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_751",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_752",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_188",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_753",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_754",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_755",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_756",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_189",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_757",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_758",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_759",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_760",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_190",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_761",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_762",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_763",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_764",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_191",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_765",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_766",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_767",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_768",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_192",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_769",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_770",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_771",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_772",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_193",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_773",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_774",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_775",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_776",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_194",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_777",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_778",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_779",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_780",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_195",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_781",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_782",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_783",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_784",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_196",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_785",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_786",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_787",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_788",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_197",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_789",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_790",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_791",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_792",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_198",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_793",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_794",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_795",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_796",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_199",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_797",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_798",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_799",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_800",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_200",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_801",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_802",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_803",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_804",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_201",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_805",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_806",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_807",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_808",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_202",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_809",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_810",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_811",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_812",
+      "passed": true
+    },
+    {
+      "name": "consistent_reading_203",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_813",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_814",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_815",
+      "passed": true
+    },
+    {
+      "name": "product_norm_bound_816",
+      "passed": true
+    },
+    {
+      "name": "coherency_auxiliary_precision",
+      "passed": true
+    },
+    {
+      "name": "single_element_norm_auxiliary_precision",
+      "passed": true
+    },
+    {
+      "name": "policy_auxiliary_bound",
+      "passed": true
+    },
+    {
+      "name": "epsilon0_exact_fraction",
+      "passed": true
+    },
+    {
+      "name": "main_epsilon_valid",
+      "passed": true
+    },
+    {
+      "name": "main_error_bound_exact_square",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_-9/100000_0",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_0_0",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_0_9/100000",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_1/100000_0",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_1/100000_1/10000",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_1/100_1/100",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_1/100_991/100000",
+      "passed": true
+    },
+    {
+      "name": "main_explicit_reading_1009/100000_1/100",
+      "passed": true
+    },
+    {
+      "name": "reject_zeroQ",
+      "passed": true
+    },
+    {
+      "name": "reject_negativeQ",
+      "passed": true
+    },
+    {
+      "name": "reject_largeQ",
+      "passed": true
+    },
+    {
+      "name": "reject_negative_epsilon",
+      "passed": true
+    },
+    {
+      "name": "reject_reading_outside",
+      "passed": true
+    },
+    {
+      "name": "reject_nan",
+      "passed": true
+    },
+    {
+      "name": "reject_infinity",
+      "passed": true
+    },
+    {
+      "name": "reject_inconsistent",
+      "passed": true
+    },
+    {
+      "name": "reject_zero_log",
+      "passed": true
+    },
+    {
+      "name": "reject_negative_log",
+      "passed": true
+    },
+    {
+      "name": "reject_sqrt_negative",
+      "passed": true
+    },
+    {
+      "name": "reject_division_zero",
+      "passed": true
+    },
+    {
+      "name": "general_error_formula_contains_exact_main",
+      "passed": true
+    }
+  ],
+  "count": 1616,
+  "symbolic_identities": 8,
+  "exact_boundary_records": 204,
+  "coherency_points": 816,
+  "product_norm_points": 816,
+  "coherency_max_abs": "3.6974079429907576939e-103",
+  "norm_identity_max_abs": "2.7305444862004268937e-104",
+  "policy_max_positive_excess": "0.0",
+  "auxiliary_disclaimer": "finite point evaluations catch implementation errors, not universal certificates",
+  "seconds": 2.2471655000117607
+}

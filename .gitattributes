@@ -1,0 +1,2 @@
+# Preserve the exact supplied evidence bytes on every checkout.
+* -text

@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "production_functions_imported": false,
+  "arithmetic": "independent Fraction endpoints rounded outwards to denominator 2^256",
+  "trig": "exact rational endpoint Taylor plus analytic monotonicity; different range evaluation from primary polynomial intervals",
+  "cells": 4096,
+  "endpoint_enclosure_checks": 8192,
+  "coverage_exact": true,
+  "independent_upper": "3151922608832088455114208706828198649581526175526156811127898914823059657/115792089237316195423570985008687907853269984665640564039457584007913129639936",
+  "primary_upper_validated": true,
+  "limit_checks": [
+    {
+      "Q": "1/1000",
+      "root_rational_signs": true,
+      "rationalized_enclosure": true,
+      "dB_auxiliary_check": true
+    },
+    {
+      "Q": "1/100",
+      "root_rational_signs": true,
+      "rationalized_enclosure": true,
+      "dB_auxiliary_check": true
+    },
+    {
+      "Q": "3/100",
+      "root_rational_signs": true,
+      "rationalized_enclosure": true,
+      "dB_auxiliary_check": true
+    },
+    {
+      "Q": "1/10",
+      "root_rational_signs": true,
+      "rationalized_enclosure": true,
+      "dB_auxiliary_check": true
+    }
+  ],
+  "seconds": 7.367224499990698,
+  "limitation": "Both implementations use Python integer/Fraction arithmetic and the same optical identity; no formal verification of Python. Auxiliary mpmath checks are not inclusion proofs."
+}
